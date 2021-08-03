@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:checked="true"
+            android:title="@string/home_string" />
+        <item
+            android:id="@+id/nav_bookmarks"
+            android:icon="@drawable/ic_black_bookmark"
+            android:title="@string/bookmarks_string" />
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about"
+            android:title="@string/about_string" />
+    </group>
+
+</menu>

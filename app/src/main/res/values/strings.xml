@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BBC News Reader</string>
+    <string name="bbc_news_reader_string">BBC News Reader</string>
+    <string name="home_string">Home</string>
+    <string name="bookmarks_string">Bookmarks</string>
+    <string name="open_drawer_string">Open Drawer</string>
+    <string name="close_drawer_string">Close Drawer</string>
+    <string name="search_your_news_string">Search your News</string>
+    <string name="about_string">About</string>
+    <string name="no_internet">No Internet</string>
+    <string name="connection">"Please check your connection status and try again"/>
+</string>
+    <string name="retry">Retry</string>
+    <string name="BBC_Logo">BBC LOGO</string>
+    <string name="about_app_string"><![CDATA[This is an RSS feed from the BBC News - US & Canada website. RSS feeds allow you to stay up to date with the latest news and features you want from BBC News - US & Canada. To subscribe to it, you will need a News Reader or other similar device.]]></string>
+</resources>
